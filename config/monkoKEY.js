@@ -1,0 +1,1 @@
+module.exports = "<Add your Mongo URI>";
